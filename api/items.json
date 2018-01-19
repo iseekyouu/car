@@ -1,0 +1,21 @@
+[
+  {
+    "name": "sildenafil",
+    "dozage": "100",
+    "dozageType": "mg",
+    "imageUrl": "",
+    "price": "1300"
+  },{
+    "name": "cialis",
+    "dozage": "20",
+    "dozageType": "mg",
+    "imageUrl": "",
+    "price": "1500"
+  },{
+    "name": "vardenafil",
+    "dozage": "20",
+    "dozageType": "mg",
+    "imageUrl": "",
+    "price": "1500"
+  }
+]
